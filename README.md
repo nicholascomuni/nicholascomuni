@@ -67,6 +67,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 
 * Databricks
 * Hadoop
+* Apache Spark
 * Docker
 * Git
 * Microsoft Excel
@@ -80,6 +81,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * Investments
 * Financial Analysis and Modeling
 * Presentations
+* Scrum and Agile Methodologies
 
 <h4>:notebook: Editors and Project Management Tools</h4>
 
