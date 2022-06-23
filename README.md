@@ -20,7 +20,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 <div align=left>
 <h4> Programming Languages </h4>
 
-* Python
+* Python :office:
 * SQL
 * HTML
 * Arduino and C
