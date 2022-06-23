@@ -86,6 +86,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 <h4>:notebook: Editors and Project Management Tools</h4>
 
 * Jupyter Notebook/Lab
+* Google Colab
 * VS Code
 * Atom
 * Notion
