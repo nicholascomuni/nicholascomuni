@@ -18,7 +18,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 
     
 <div align=left>
-<h4> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Programming Languages </h4>
+<h4> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Programming Languages </h4>
 
 * Python
 * SQL
