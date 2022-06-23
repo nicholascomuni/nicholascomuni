@@ -60,6 +60,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * HBase/Hive
 
 <h4>:chart_with_upwards_trend: BI Tools</h4>
+
 * Power BI
 
 <h4>:blue_book: Other Technologies</h4>
