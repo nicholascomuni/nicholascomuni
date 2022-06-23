@@ -17,36 +17,19 @@ I've worked on BI, data science, web scraping, social media marketing automation
 trading automation with cryptocurrencies, among other projects. In addition, i have knowledge working with Google Cloud, AWS, Azure and Heroku solutions.
 
     
-<div align=left>
-<h4> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Programming Languages </h4>
+<h4>:page_with_curl: Programming Languages </h4>
 
 * Python
 * SQL
 * HTML
 * Arduino and C
-    
-</div>
-    
-<div align=left>
-    
-<h4> Programming Languages </h4>
-
-* Python
-* SQL
-* HTML
-* Arduino and C
-
-</div>
-    
-
-
-<h4> Operational Systems </h4>
+        
+<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> Operational Systems </h4>
 
 * Linux (Ubuntu, Debian among others)
 * Windows
 
-
-<h4> Python Libraries</h4>
+<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Python Libraries</h4>
 
 * PySpark
 * Pandas
@@ -61,14 +44,14 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * Requests
 * PyTorch
 
-<h4> Cloud Providers</h4>
+<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> Cloud Providers</h4>
 
 * Google Cloud Platform
 * AWS
 * Azure
 * Heroku
 
-<h4>Databases</h4>
+<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25" height="25"/> Databases</h4>
 
 * SQL Server
 * MySQL
@@ -76,11 +59,10 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * MongoDB
 * HBase/Hive
 
-<h4>BI Tools</h4>
-
+<h4>:chart_with_upwards_trend: BI Tools</h4>
 * Power BI
 
-<h4>Other Technologies</h4>
+<h4>:blue_book: Other Technologies</h4>
 
 * Databricks
 * Hadoop
@@ -90,7 +72,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * Shell Scripting
 * Rest API
 
-<h4>Other Skills</h4>
+<h4>:orange_book: Other Skills</h4>
 
 * Project Management
 * Business Management
@@ -98,14 +80,14 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * Financial Analysis and Modeling
 * Presentations
 
-<h4>Editors and Project Management Tools</h4>
+<h4>:notebook: Editors and Project Management Tools</h4>
 
 * Jupyter Notebook/Lab
 * VS Code
 * Atom
 * Notion
 
-<h2>Get to know some of my projects</h2>
+<h2>:hammer:Get to know some of my projects</h2>
 
 <a href='https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet'>Sorghum - 100 Cultivar Identification - FGVC 9</a>
 
