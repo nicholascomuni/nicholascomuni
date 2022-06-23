@@ -13,7 +13,7 @@ Sklearn, PySpark, Matplotlib, Seaborn, Flask, Django, Tensorflow, among others.
 
 I develop all kinds of ML models, from modeling to deploying, from simple models to Deep Learning models - NLP, Computer Vision, among others.
 
-I've worked on BI, data science, web scraping, social media marketing automation,
+I've been working on BI, data science, web scraping, social media marketing automation,
 trading automation with cryptocurrencies, among other projects. In addition, i have knowledge working with Google Cloud, AWS, Azure and Heroku solutions.
 
     
