@@ -26,7 +26,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
         
 <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> Operational Systems </h4>
 
-* Linux (Ubuntu, Debian, CentOS among others)
+* Linux (Ubuntu, Debian among others)
 * Windows
 
 <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Python Libraries</h4>
