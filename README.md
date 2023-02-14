@@ -20,6 +20,7 @@ In addition, i have knowledge working with Azure and Google Cloud solutions.
 <h4>:scroll: Certifications </h4>
 * Google Cloud Professional Data Engineer
 * <b>in progress:</b> Google Cloud Professional Machine Learning Engineer
+* PySpark
 
 
 <h4>:page_with_curl: Programming Languages </h4>
