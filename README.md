@@ -2,7 +2,7 @@
 <h3 align="center">A Data Scientist and Python Developer from Brazil</h3>
 
 <br>
-I've been working on python and data science projects since 2018. 
+I've been working on python projects since 2018. 
 
 I have an entrepreneurial spirit and I like challenges. As an engineer I have always sought
 solutions through data driven technologies. I have participated in competitions of
@@ -11,12 +11,17 @@ Machine Learning/Deep Learning (Kaggle), and Algotrading (Stratsphera - BTG Bank
 I have knowledge in several Python libraries, such as Numpy, Pandas,
 Sklearn, PySpark, Matplotlib, Seaborn, Flask, Django, Tensorflow, among others.
 
-I develop all kinds of ML models, from modeling to deploying, from simple models to Deep Learning models - NLP, Computer Vision, among others.
-
 I've been working on BI, data science, web scraping, social media marketing automation,
-trading automation with cryptocurrencies, among other projects. In addition, i have knowledge working with Google Cloud, AWS, Azure and Heroku solutions.
+data modeling, ETLs building with Spark and Hive, among other projects. 
 
-    
+In addition, i have knowledge working with Azure and Google Cloud solutions.
+
+
+<h4>:scroll: Certifications </h4>
+* Google Cloud Professional Data Engineer
+* <b>in progress:</b> Google Cloud Professional Machine Learning Engineer
+
+
 <h4>:page_with_curl: Programming Languages </h4>
 
 * Python
@@ -42,12 +47,10 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * Django
 * Selenium
 * Requests
-* PyTorch
 
 <h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> Cloud Providers</h4>
 
-* Google Cloud Platform
-* AWS
+* Google Cloud Platform (Certified)
 * Azure
 * Heroku
 
@@ -56,7 +59,7 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * SQL Server
 * MySQL
 * Postgres
-* MongoDB
+* Hive
 
 <h4>:chart_with_upwards_trend: BI Tools</h4>
 
@@ -70,17 +73,14 @@ trading automation with cryptocurrencies, among other projects. In addition, i h
 * Docker
 * Git
 * Microsoft Excel
-* Shell Scripting
 * Rest API
 
 <h4>:orange_book: Other Skills</h4>
 
-* Project Management
-* Business Management
 * Investments
 * Financial Analysis and Modeling
+* Agronomy
 * Presentations
-* Scrum and Agile Methodologies
 
 <h4>:notebook: Editors and Project Management Tools</h4>
 
