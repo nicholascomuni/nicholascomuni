@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nicholas Comuni</h1>
 <h3 align="center">A Data Scientist and Python Developer from Brazil</h3>
 
+**🔎 Get to know my personal website: <a href='https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet'>www.nicholascomuni.com</a>**
+
 <br>
-I've been working on python projects since 2018. 
+In January of 2018, I started learning Python, and since then, my perspective on problem-solving has changed dramatically. I began studying statistics, machine learning, web development, and various related topics. Whenever an opportunity arose, I applied these skills to solve real problems in the agricultural industry, leveraging my background in agronomical engineering.<br><br>
 
-I have an entrepreneurial spirit and I like challenges. As an engineer I have always sought
-solutions through data driven technologies. I have participated in competitions of
-Machine Learning/Deep Learning (Kaggle), and Algotrading (Stratsphera - BTG Bank).
+Over time, as I gained more experience in programming, data science, and data engineering, I made a definitive career shift, working as a full-time data engineer and data scientist ever since.
 
-I have knowledge in several Python libraries, such as Numpy, Pandas,
-Sklearn, PySpark, Matplotlib, Seaborn, Flask, Django, Tensorflow, among others.
-
-I've been working on BI, data science, web scraping, social media marketing automation,
-data modeling, ETLs building with Spark and Hive, among other projects. 
-
-In addition, i have knowledge working with Azure and Google Cloud solutions.
-
+Currently, my work revolves around recommender models, and I'm particularly passionate about MLOps and coding best practices. My goal is not only to develop the most accurate ML model but also to design it as a comprehensive system, ensuring scalability, structure, readability, comprehensibility, testability, and monitorability.
 
 <h4>:scroll: Certifications </h4>
 
@@ -74,11 +67,11 @@ In addition, i have knowledge working with Azure and Google Cloud solutions.
 * Git
 * Microsoft Excel
 * Rest API
+* ChatGPT
 
 <h4>:orange_book: Other Skills</h4>
 
-* Investments
-* Financial Analysis and Modeling
+* Finance
 * Agronomy
 * Presentations
 
