@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Comuni</h1>
 <h3 align="center">A Data Scientist and Python Developer from Brazil</h3>
 
-**🔎 Get to know my personal website: <a href='www.nicholascomuni.com'>www.nicholascomuni.com</a>**
+**🔎 Get to know my personal website: www.nicholascomuni.com**
 
 <br>
 In January of 2018, I started learning Python, and since then, my perspective on problem-solving has changed dramatically. I began studying statistics, machine learning, web development, and various related topics. Whenever an opportunity arose, I applied these skills to solve real problems in the agricultural industry, leveraging my background in agronomical engineering.<br><br>
