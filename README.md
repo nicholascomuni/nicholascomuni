@@ -46,7 +46,7 @@ Most of my day to day is spent building and maintaining a recommender system tha
 
 Before that, I spent a few years building things like a budgeting tool for irrigation systems that plugged straight into a company's ERP, and a proper data warehouse with ETL pipelines feeding Power BI dashboards. Earlier still, I built a project-management app for a greenhouse company and automated their budgeting process, cutting a 6 hour job down to 30 minutes. My first job out of school was actually in agronomical engineering, where I built tools to manage biotech field experiments and analyze soil fertility data.
 
-On the side, I built [Fortuna](https://github.com/nicholascomuni/fortuna), a personal finance app with an LLM agent baked in, automated subtitle translation for a video platform, put together a handful of landing pages and e-commerce sites, and messed around with Instagram automation. I also compete in Kaggle competitions when I have the time.
+On the side, I built [Fortuna](https://github.com/nicholascomuni/fortuna), a personal finance app with an LLM agent baked in, automated subtitle translation for a video platform, put together a handful of landing pages and e-commerce sites, and built a marketing automation tool for Instagram. I also compete in Kaggle competitions when I have the time.
 
 Full detail on everything above, plus the rest of my project history, is on my [living CV](https://www.nicholascomuni.com).
 
