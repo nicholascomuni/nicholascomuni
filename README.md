@@ -1,104 +1,104 @@
 <h1 align="center">Hi 👋, I'm Nicholas Comuni</h1>
-<h3 align="center">A Data Scientist and Python Developer from Brazil</h3>
+<h3 align="center">Data Scientist & Machine Learning Engineer from Brazil</h3>
 
-**🔎 Get to know my personal website: www.nicholascomuni.com**
+<p align="center">🔎 <strong>My full living CV, with detailed experience and projects:</strong> <a href="https://www.nicholascomuni.com">www.nicholascomuni.com</a></p>
 
 <br>
-In January of 2018, I started learning Python, and since then, my perspective on problem-solving has changed dramatically. I began studying statistics, machine learning, web development, and various related topics. Whenever an opportunity arose, I applied these skills to solve real problems in the agricultural industry, leveraging my background in agronomical engineering.<br><br>
 
-Over time, as I gained more experience in programming, data science, and data engineering, I made a definitive career shift, working as a full-time data engineer and data scientist ever since.
+In January 2018, I started learning Python, and it changed how I approach problem-solving. I dove into statistics, machine learning and web development, and applied them to real problems in agriculture, leveraging my background in Agronomical Engineering.
 
-Currently, my work revolves around recommender models, and I'm particularly passionate about MLOps and coding best practices. My goal is not only to develop the most accurate ML model but also to design it as a comprehensive system, ensuring scalability, structure, readability, comprehensibility, testability, and monitorability.
+Over time, I made a full career shift into data — working as a full-time Data Engineer and Data Scientist ever since. Today my work centers on recommender systems at [Globant](https://www.globant.com), and I'm increasingly focused on deepening my expertise in Agentic AI and LLMs. I'm especially passionate about MLOps and engineering best practices: building models that aren't just accurate, but scalable, structured, testable and easy to understand and monitor.
 
-<h4>:scroll: Certifications </h4>
+<h4>:scroll: Certifications</h4>
 
 * Google Cloud Professional Data Engineer
 * Google Cloud Professional Machine Learning Engineer
 
-<h4>:page_with_curl: Programming Languages </h4>
+<h4>:speech_balloon: Languages</h4>
 
-* Python
-* SQL
-* HTML
-* Arduino and C
-        
-<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> Operational Systems </h4>
+* English — Advanced / Fluent
+* Spanish — Intermediate / Fluent
+* Portuguese — Native
 
-* Linux (Ubuntu, Debian among others)
-* Windows
+<h4>:page_with_curl: Languages (programming)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Python Libraries</h4>
+* Python, SQL
+* HTML, CSS, JavaScript
 
-* PySpark
-* Pandas
-* Numpy
-* TensorFlow - Keras
-* SkLearn
-* Matplotlib
-* Seaborn
-* Flask
-* Django
-* Selenium
-* Requests
+<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Machine Learning</h4>
 
-<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> Cloud Providers</h4>
+* Recommender Systems, Supervised & Unsupervised Models
+* Scikit-learn, TensorFlow
+* MLflow, Feature Store, Monitoring, MLOps
 
-* Google Cloud Platform (Certified)
-* Azure
-* Heroku
+<h4>:robot: AI Engineering</h4>
 
-<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25" height="25"/> Databases</h4>
+* RAG, Embeddings, Databricks Vector Search
+* LangGraph / LangChain, OpenAI, Claude Code
+* MCPs
 
-* SQL Server
-* MySQL
-* Postgres
-* Hive
+<h4><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/apachespark.svg" width="25" height="25"/> Data Engineering</h4>
 
-<h4>:chart_with_upwards_trend: BI Tools</h4>
+* PySpark, Spark Structured Streaming
+* Delta Lake, ETLs, Orchestration
 
-* Power BI
+<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"/> Databases</h4>
 
-<h4>:blue_book: Other Technologies</h4>
+* Delta Lake, SQL Server, PostgreSQL, MySQL, Redis
 
-* Databricks
-* Hadoop
-* Apache Spark
-* Docker
-* Git
-* Microsoft Excel
-* Rest API
-* ChatGPT
+<h4><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/databricks.svg" width="25" height="25"/> Cloud & DevOps</h4>
 
-<h4>:orange_book: Other Skills</h4>
+* **AWS:** EC2, IAM, Secrets, App Runner, S3
+* **GCP:** Cloud Storage, Compute Engine, IAM
+* **Databricks:** Unity Catalog, Workflows, Asset Bundles, Secrets, Service Principals, Feature Store, Liquid Clustering, Apps, Vector Search, Jobs API, CLI
+* **DevOps:** Jenkins, GitHub Actions, Docker
 
-* Finance
-* Agronomy
-* Presentations
+<h4>:chart_with_upwards_trend: Data Viz & BI</h4>
 
-<h4>:notebook: Editors and Project Management Tools</h4>
+* Matplotlib, Seaborn, Plotly
+* Power BI, LucidChart, Canva
 
-* Jupyter Notebook/Lab
-* Google Colab
-* VS Code
-* Atom
-* Notion
+<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25"/> Web Development and Deployment</h4>
 
-<h2>:hammer:Get to know some of my projects</h2>
+* Flask, Django, FastAPI, React
 
-<a href='https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet'>Sorghum - 100 Cultivar Identification - FGVC 9</a>
+<h4>:notebook: Other Tools</h4>
 
-<a href='https://github.com/nicholascomuni/H-M-Personalized-Fashion-Recommendations'>H&M Personalized Fashion Recommendations</a>
+* Jira, Confluence, Git, Notion
 
-<a href='https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition'>New York taxi trips duration</a>
+<h2>:hammer: Featured Work</h2>
 
-<a href = 'https://github.com/nicholascomuni/Spam-Classifier'>Spam Classifier with Naive Bayes</a>
+For the full, detailed breakdown of everything I've built — company by company, project by project — check out <a href="https://www.nicholascomuni.com">my living CV</a>. A few highlights:
 
-<a href = 'https://github.com/nicholascomuni/Crypto-Trading-Bot-With-Binance-API'>Crypto Trading Bot Using Binance APIs</a>
+* <a href="https://github.com/nicholascomuni/fortuna">Fortuna</a> — a personal SaaS for financial planning, built as a full-stack LLM-agentic app (React, Flask, LangGraph, OpenAI API)
+* <a href="https://www.youtube.com/@programador_raiz">Programador Raiz</a> — my YouTube channel teaching Python, Data Science and Data Engineering
+* <a href="https://medium.com/@nicholas.comuni">Data engineering articles on Medium</a>, mostly about Spark internals
 
+**Kaggle competitions:**
+
+* <a href="https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet">Sorghum — 100 Cultivar Identification (FGVC 9)</a>
+* <a href="https://github.com/nicholascomuni/H-M-Personalized-Fashion-Recommendations">H&M Personalized Fashion Recommendations</a>
+* <a href="https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition">New York Taxi Trip Duration</a>
 
 <hr>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/apachespark.svg" alt="spark" width="40" height="40"/></a>
+<a href="https://databricks.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/databricks.svg" alt="databricks" width="40" height="40"/></a>
+<a href="https://mlflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/mlflow.svg" alt="mlflow" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+</p>
 
 <hr>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholascomuni&show_icons=true&locale=en&layout=compact" alt="nicholascomuni" /></p>
-
