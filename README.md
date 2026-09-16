@@ -11,9 +11,9 @@
 
 </div>
 
-I design and build production recommender systems — from feature engineering and model training through to the orchestration, evaluation and monitoring that keep them running at scale. I got here by teaching myself Python in 2018, coming from a background in agronomical engineering, and making a full career shift into data.
+I build recommender systems that run in production for millions of users — the models, the feature pipelines, and everything that keeps it all running and monitored. I got into this by teaching myself Python back in 2018, coming from an agronomical engineering background, and ended up making a full switch into data.
 
-Right now I'm deepening my focus on **agentic AI and LLM-powered tooling**, and I care a lot about MLOps: a model isn't done when it's accurate, it's done when it's scalable, testable, monitorable and something the next engineer can actually understand.
+Lately I've been spending most of my time on **agentic AI and LLM tooling**. I also care a lot about MLOps — not just getting a model accurate, but making sure it's something scalable and testable that the next person can actually maintain without me having to explain everything.
 
 📄 **The full story — every role and project in detail — lives on my [living CV](https://www.nicholascomuni.com).**
 
