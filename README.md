@@ -2,12 +2,11 @@
 
 # Nicholas Comuni
 
-**Data Scientist & Machine Learning Engineer**, Recommender Systems · MLOps · Agentic AI
+**Senior Data Scientist & Machine Learning Engineer**, Recommender Systems · MLOps · Agentic AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicholascomuni.com-0d9488?style=flat-square)](https://www.nicholascomuni.com)
 [![Email](https://img.shields.io/badge/Email-nicholas.comuni%40outlook.com-informational?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:nicholas.comuni@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-comuni/)
-[![YouTube](https://img.shields.io/badge/YouTube-Programador%20Raiz-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@programador_raiz)
 
 </div>
 
