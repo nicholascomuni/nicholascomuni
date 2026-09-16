@@ -1,104 +1,71 @@
-<h1 align="center">Hi 👋, I'm Nicholas Comuni</h1>
-<h3 align="center">Data Scientist & Machine Learning Engineer from Brazil</h3>
+<div align="center">
 
-<p align="center">🔎 <strong>My full living CV, with detailed experience and projects:</strong> <a href="https://www.nicholascomuni.com">www.nicholascomuni.com</a></p>
+# Nicholas Comuni
+
+**Data Scientist & Machine Learning Engineer** — Recommender Systems · MLOps · Agentic AI
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicholascomuni.com-0d9488?style=flat-square)](https://www.nicholascomuni.com)
+[![Email](https://img.shields.io/badge/Email-nicholas.comuni%40outlook.com-informational?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:nicholas.comuni@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-comuni/)
+[![YouTube](https://img.shields.io/badge/YouTube-Programador%20Raiz-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@programador_raiz)
+
+</div>
+
+I design and build production recommender systems — from feature engineering and model training through to the orchestration, evaluation and monitoring that keep them running at scale. I got here by teaching myself Python in 2018, coming from a background in agronomical engineering, and making a full career shift into data.
+
+Right now I'm deepening my focus on **agentic AI and LLM-powered tooling**, and I care a lot about MLOps: a model isn't done when it's accurate, it's done when it's scalable, testable, monitorable and something the next engineer can actually understand.
+
+📄 **The full story — every role and project in detail — lives on my [living CV](https://www.nicholascomuni.com).**
 
 <br>
 
-In January 2018, I started learning Python, and it changed how I approach problem-solving. I dove into statistics, machine learning and web development, and applied them to real problems in agriculture, leveraging my background in Agronomical Engineering.
+### Skills
 
-Over time, I made a full career shift into data — working as a full-time Data Engineer and Data Scientist ever since. Today my work centers on recommender systems at [Globant](https://www.globant.com), and I'm increasingly focused on deepening my expertise in Agentic AI and LLMs. I'm especially passionate about MLOps and engineering best practices: building models that aren't just accurate, but scalable, structured, testable and easy to understand and monitor.
+**Languages:** Python, SQL, JavaScript, HTML, CSS
 
-<h4>:scroll: Certifications</h4>
+**Machine Learning:** Recommender Systems, Supervised & Unsupervised Models, Scikit-learn, TensorFlow, MLflow, Feature Stores, Monitoring, MLOps
 
-* Google Cloud Professional Data Engineer
-* Google Cloud Professional Machine Learning Engineer
+**AI Engineering:** RAG, Embeddings, MCPs, LangGraph/LangChain, OpenAI, Claude Code, Databricks Vector Search
 
-<h4>:speech_balloon: Languages</h4>
+**Data Engineering:** PySpark, Delta Lake, Spark Structured Streaming, ETLs, Orchestration
 
-* English — Advanced / Fluent
-* Spanish — Intermediate / Fluent
-* Portuguese — Native
+**Databases:** SQL Server, PostgreSQL, MySQL, Redis
 
-<h4>:page_with_curl: Languages (programming)</h4>
+**Cloud & DevOps:** AWS (EC2, IAM, Secrets, App Runner, S3), GCP (Cloud Storage, Compute Engine, IAM), Databricks (Unity Catalog, Workflows, Asset Bundles, Feature Store, Liquid Clustering, Apps, CLI), Docker, Jenkins, GitHub Actions
 
-* Python, SQL
-* HTML, CSS, JavaScript
+**Web Development:** Flask, Django, FastAPI, React
 
-<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> Machine Learning</h4>
+**Other Tools:** Jira, Confluence, Git, Notion
 
-* Recommender Systems, Supervised & Unsupervised Models
-* Scikit-learn, TensorFlow
-* MLflow, Feature Store, Monitoring, MLOps
+**Certifications:** Google Cloud Professional Data Engineer, Google Cloud Professional Machine Learning Engineer
 
-<h4>:robot: AI Engineering</h4>
+<br>
 
-* RAG, Embeddings, Databricks Vector Search
-* LangGraph / LangChain, OpenAI, Claude Code
-* MCPs
+### Experience
 
-<h4><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/apachespark.svg" width="25" height="25"/> Data Engineering</h4>
+I design, build and maintain a recommender system serving millions of users: feature store, ranking/retrieval/clustering models (ALS, XGBoost, LightGBM, TensorFlow Recommenders, K-Means), a real-time zero-party-data model, and the orchestration and delivery layers that tie it all together. I redesigned the feature store architecture, cutting compute cost by 90–95% on most workloads, and led a migration from Hive Metastore to Unity Catalog and onto serverless compute. I also built an evaluation framework, a global control-group system for measuring incremental lift, an automated compliance-audit pipeline, a knowledge RAG agentic system, and an internal Databricks development agent — plus the CI/CD and testing infrastructure behind all of it.
 
-* PySpark, Spark Structured Streaming
-* Delta Lake, ETLs, Orchestration
+Earlier on, I built a desktop irrigation-budgeting tool integrated with an ERP database, and a dimensional data warehouse with SQL ETL pipelines feeding Power BI dashboards. Before that, a Django project-management app and a hydroponic-systems budgeting automation tool that cut delivery time from 6 hours to 30 minutes. And before that, an app to manage biotechnological field experiments, statistical analyses on the results, and a tool to process soil-fertility reports at scale and generate fertilizer recommendations.
 
-<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"/> Databases</h4>
+On the side, I designed and built [Fortuna](https://github.com/nicholascomuni/fortuna), a personal SaaS for financial planning with a full-stack LLM-agentic app. I've also automated a subtitle translation workflow for thousands of educational videos, built landing pages and e-commerce sites, an Instagram marketing automation tool, and compete in Kaggle competitions.
 
-* Delta Lake, SQL Server, PostgreSQL, MySQL, Redis
+Full detail on everything above — plus the rest of my project history — is on my [living CV](https://www.nicholascomuni.com).
 
-<h4><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/databricks.svg" width="25" height="25"/> Cloud & DevOps</h4>
+<br>
 
-* **AWS:** EC2, IAM, Secrets, App Runner, S3
-* **GCP:** Cloud Storage, Compute Engine, IAM
-* **Databricks:** Unity Catalog, Workflows, Asset Bundles, Secrets, Service Principals, Feature Store, Liquid Clustering, Apps, Vector Search, Jobs API, CLI
-* **DevOps:** Jenkins, GitHub Actions, Docker
+### Featured work
 
-<h4>:chart_with_upwards_trend: Data Viz & BI</h4>
+| | |
+|---|---|
+| 🧮 **[Fortuna](https://github.com/nicholascomuni/fortuna)** | A personal SaaS for financial planning — full-stack LLM-agentic app (React, Flask, LangGraph, OpenAI API) |
+| 🎥 **[Programador Raiz](https://www.youtube.com/@programador_raiz)** | My YouTube channel teaching Python, Data Science and Data Engineering |
+| ✍️ **[Medium articles](https://medium.com/@nicholas.comuni)** | Writing on data engineering, mostly Spark internals |
+| 🏆 **[Sorghum — 100 Cultivar Identification](https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet)** | Kaggle (FGVC 9) |
+| 🏆 **[H&M Personalized Fashion Recommendations](https://github.com/nicholascomuni/H-M-Personalized-Fashion-Recommendations)** | Kaggle |
+| 🏆 **[New York Taxi Trip Duration](https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition)** | Kaggle |
 
-* Matplotlib, Seaborn, Plotly
-* Power BI, LucidChart, Canva
+<br>
 
-<h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25"/> Web Development and Deployment</h4>
-
-* Flask, Django, FastAPI, React
-
-<h4>:notebook: Other Tools</h4>
-
-* Jira, Confluence, Git, Notion
-
-<h2>:hammer: Featured Work</h2>
-
-For the full, detailed breakdown of everything I've built — company by company, project by project — check out <a href="https://www.nicholascomuni.com">my living CV</a>. A few highlights:
-
-* <a href="https://github.com/nicholascomuni/fortuna">Fortuna</a> — a personal SaaS for financial planning, built as a full-stack LLM-agentic app (React, Flask, LangGraph, OpenAI API)
-* <a href="https://www.youtube.com/@programador_raiz">Programador Raiz</a> — my YouTube channel teaching Python, Data Science and Data Engineering
-* <a href="https://medium.com/@nicholas.comuni">Data engineering articles on Medium</a>, mostly about Spark internals
-
-**Kaggle competitions:**
-
-* <a href="https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet">Sorghum — 100 Cultivar Identification (FGVC 9)</a>
-* <a href="https://github.com/nicholascomuni/H-M-Personalized-Fashion-Recommendations">H&M Personalized Fashion Recommendations</a>
-* <a href="https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition">New York Taxi Trip Duration</a>
-
-<hr>
-
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/apachespark.svg" alt="spark" width="40" height="40"/></a>
-<a href="https://databricks.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/databricks.svg" alt="databricks" width="40" height="40"/></a>
-<a href="https://mlflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/mlflow.svg" alt="mlflow" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-
-<hr>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholascomuni&show_icons=true&locale=en&layout=compact" alt="nicholascomuni" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholascomuni&show_icons=true&locale=en&layout=compact&theme=default" alt="nicholascomuni's top languages" />
+</div>
