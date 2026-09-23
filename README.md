@@ -46,7 +46,7 @@ Most of my day to day is spent building and maintaining a recommender system tha
 
 Before that, I spent a few years building things like a budgeting tool for irrigation systems that plugged straight into a company's ERP, and a proper data warehouse with ETL pipelines feeding Power BI dashboards. Earlier still, I built a project-management app for a greenhouse company and automated their budgeting process, cutting a 6 hour job down to 30 minutes. My first job out of school was actually in agronomical engineering, where I built tools to manage biotech field experiments and analyze soil fertility data.
 
-On the side, I built [Fortuna](https://github.com/nicholascomuni/fortuna), a personal finance app with an LLM agent baked in, automated subtitle translation for a video platform, put together a handful of landing pages and e-commerce sites, and built a marketing automation tool for Instagram. I also compete in Kaggle competitions when I have the time.
+On the side, I built Fortuna, a personal finance app with an LLM agent baked in, automated subtitle translation for a video platform, put together a handful of landing pages and e-commerce sites, and built a marketing automation tool for Instagram. I also compete in Kaggle competitions when I have the time.
 
 Full detail on everything above, plus the rest of my project history, is on my [living CV](https://www.nicholascomuni.com).
 
@@ -56,12 +56,14 @@ Full detail on everything above, plus the rest of my project history, is on my [
 
 | | |
 |---|---|
-| 🧮 **[Fortuna](https://github.com/nicholascomuni/fortuna)** | A personal SaaS for financial planning, full-stack LLM-agentic app (React, Flask, LangGraph, OpenAI API) |
-| 🎥 **[Programador Raiz](https://www.youtube.com/@programador_raiz)** | My YouTube channel teaching Python, Data Science and Data Engineering |
+| 🤖 **[bluesky-post-explainer](https://github.com/nicholascomuni/bluesky-post-explainer)** | LangGraph agent that explains Bluesky posts with vision and web search, FastAPI + React UI, and an LLM-as-judge evaluation harness |
+| 📉 **[churn-mlops-pipeline](https://github.com/nicholascomuni/churn-mlops-pipeline)** | End-to-end churn MLOps: XGBoost, MLflow registry with a release gate and manual promotion, batch scoring, PSI/KS drift monitoring |
+| 🏠 **[house-price-serving](https://github.com/nicholascomuni/house-price-serving)** | Champion/challenger model serving: FastAPI behind nginx A/B traffic splitting, MLflow aliases and hot model reload |
+| 💳 **[credit-default-prediction](https://github.com/nicholascomuni/credit-default-prediction)** | Leakage-free credit scoring pipelines, stratified CV across five model families and a cost-based decision threshold |
+| 🧱 **[LMI](https://github.com/nicholascomuni/LMI)** | Typed Python library for engineering bills of materials with pluggable ERP catalog adapters (CSV, SQL, REST) |
+| 🏆 **Kaggle** | [Sorghum-100 (FGVC9)](https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet) · [H&M recommendations](https://github.com/nicholascomuni/H-M-Personalized-Fashion-Recommendations) · [NYC Taxi Trip Duration](https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition) |
+| 🎥 **[Programador Raiz](https://www.youtube.com/@programador_raiz)** | My YouTube channel teaching Python, Data Science and Data Engineering, with the [companion notebooks](https://github.com/nicholascomuni/programador-raiz) |
 | ✍️ **[Medium articles](https://medium.com/@nicholas.comuni)** | Writing on data engineering, mostly Spark internals |
-| 🏆 **[Sorghum — 100 Cultivar Identification](https://github.com/nicholascomuni/Sorghum-100-Cultivar-Identification-EfficientNet)** | Kaggle (FGVC 9) |
-| 🏆 **[H&M Personalized Fashion Recommendations](https://github.com/nicholascomuni/H-M-Personalized-Fashion-Recommendations)** | Kaggle |
-| 🏆 **[New York Taxi Trip Duration](https://github.com/nicholascomuni/Kaggle-New-York-Taxi-Copetition)** | Kaggle |
 
 <br>
 
